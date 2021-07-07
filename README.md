@@ -4,3 +4,4 @@
 3.master 分支再次改写(并在此时分离出 feature 分支)
 4.再再再次修改 master 分支
 5.增加标题说明文件
+6.最后一次修改要比 feature 晚，这样 master 就是最后一次修改，这样才能让 feature 分支向 master 分支合并
